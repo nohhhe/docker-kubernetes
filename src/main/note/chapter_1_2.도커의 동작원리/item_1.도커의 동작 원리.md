@@ -3,7 +3,7 @@
 ## 도커의 구조
 일반적인 서버라면 운영체제 위에 프로그램이나 데이터가 직접 올라가겠지만 도커를 사용하는 경우에는 운영체제 위에 도커 엔진이 동작하고 그 위에서 컨테이너가 동작한다.
 
-![도커의 구조](..%2F..%2Fresources%2Fimages%2Fdocker_structure.png)
+<img src="../../resources/images/docker_structure.png" alt="도커의 구조" style="width: 100%; height: auto;" />
 
 ### 운영체제가 하는 일&컨테이너 안에 있는 리눅스 운영 체제
 운영체제는 소프트웨어나 프로그램의 명령을 하드웨어에 전달하는 역할을 한다.
