@@ -82,8 +82,9 @@ AWS EC2에도 도커의 컨테이너와 비슷한 인스턴스라는 개념이 �
 AWS ECS를 사용하면 별도로 가상 서버를 만들지 않아도 컨테이너 이미지를 그대로 실행할 수 있다.
 
 > AWS 내부적으로 인스턴스를 관리하지 서버 자체가 없는 것은 아니다. 다만 사용자가 직접 관리하지 않을 뿐이다.
- 
-![스크린샷 2024-10-07 00.24.18.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fj1%2F5ql_ff2s5bqcsc32szpjt41m0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_KONyvT%2F%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-10-07%2000.24.18.png)
+
+#### ECS와 도커 구조
+![ECS와 도커 구조](..%2F..%2Fresources%2Fimages%2Fecs_docker_structure.png)
 
 #### ECS와 EKS
 모두 AWS 컨테이너화된 애플리케이션을 관리하는 서비스이지만 ECS는 AWS 고유의 컨테이너 관리 서비스이고, EKS는 쿠버네티스를 사용하여 컨테이너를 관리하는 서비스이다.
