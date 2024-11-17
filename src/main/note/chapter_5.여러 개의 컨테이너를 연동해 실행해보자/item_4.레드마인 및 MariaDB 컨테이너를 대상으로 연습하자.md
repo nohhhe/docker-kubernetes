@@ -114,28 +114,6 @@ MariaDB 컨테이너 생성 및 실행 시 인자
 > docker rm mariadb000ex15 redmine000ex16
 > docker rmi mariadb redmine
 > docker network rm redmine000net3
+
 ---
 
-## ⭕
-### ◉
-> 
-
-#### ✦
-| 항목 | 내용 |
-|----|----|
-|  |    |
-|  |    |
-|  |    |
-|  |    |
-|  |    |
-
-##### ❓
-* a
-* b
-* c
-##### ❗️
-
-
---- 
-
-### 📌스터디 내용
